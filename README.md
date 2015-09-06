@@ -1,6 +1,6 @@
 # Juan vs. The Trump
 
-Desktop entry for the [js13kgames](http://js13kgames.com) 2015 competition.
+Desktop entry for the [js13kgames](http://js13kgames.com) 2015 competition. [Demo](http://spmurrayzzz.com/dropbox/juan/)
 
 Our hero is Juan. His desires in life are simple: collect coins and stay alive.
 His lifelong rival is the Trump, who just likes to screw everything up.
