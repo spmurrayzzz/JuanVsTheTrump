@@ -45,4 +45,4 @@ After each build, you'll find `compressed/index.html` and
 
 - Game art for Juan and coins provided by: [http://opengameart.org/content/platform-game-sprites](http://opengameart.org/content/platform-game-sprites)
 - Development template: [js13k-requirejs](https://github.com/spmurrayzzz/js13k-requirejs)
-- SFX: [jsfxr](https://github.com/mneubrand/jsfxr)
+- SFX: [jsfxr](https://github.com/mneubrand/jsfxr) — Patched by [Kevin Ennis](https://github.com/kevincennis)
